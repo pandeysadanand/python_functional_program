@@ -28,5 +28,5 @@ def get_permutation(string, i=0):
 
 
 if __name__ == '__main__':
-    inputString = str(input("Enter the string : "))
+    inputString = str(input("Enter the string : \n"))
     get_permutation(inputString)
