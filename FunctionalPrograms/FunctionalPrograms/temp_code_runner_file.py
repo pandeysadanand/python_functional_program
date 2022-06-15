@@ -1,5 +1,5 @@
 
-Root_1 = (-b + cmath.sqrt(delta)) / (2 * a)
+Root_1 = ((-b + cmath.sqrt(delta)) / (2 * a))
 Root_2 = (-b - cmath.sqrt(delta)) / (2 * a)
 
 print("Root 1 of x :", Root_1)
