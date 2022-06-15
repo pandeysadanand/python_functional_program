@@ -37,6 +37,6 @@ def palindrome(num):
 
 
 if __name__ == '__main__':
-    number = int(input("Enter number to check palindrome :"))
+    number = int(input("Enter number to check palindrome :\n"))
     palindrome(number)
 
