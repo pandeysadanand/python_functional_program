@@ -1,7 +1,7 @@
 """
-    @Author: SNEHAL PATIL
+    @Author: SADANAND PANDEY
     @Date: 2022-05-31
-    @Last Modified by: SNEHAL PATIL
+    @Last Modified by: SADANAND  PANDEY
     @Last Modified time: 2022-06-02
     @Title : Program to Given N distinct Coupon Numbers, count how many random numbers do you
              need to generate distinct coupon number
