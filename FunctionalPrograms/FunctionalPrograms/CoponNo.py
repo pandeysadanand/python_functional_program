@@ -20,8 +20,7 @@ def generate_coupon(coupon_count, coupon_length):
                Take input coupon_count-how many coupon wants to create and
                coupon_length-how many digit coupon you want to create
 
-           Return:
-               none
+           Return: none
        """
 
     coupon_list = []
