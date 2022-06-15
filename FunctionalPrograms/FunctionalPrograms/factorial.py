@@ -31,4 +31,4 @@ if __name__ == '__main__':
         number = int(input("Enter the number to find factorial: "))
         print(f"Factorial of {number}:", fact(number))
     except ValueError as ve:
-        print("Please enter valid number")
+        print("Please enter valid number\n")
