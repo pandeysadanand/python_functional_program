@@ -5,7 +5,6 @@
     @Last Modified time: 2022-06-01 19:50:00
 """
 
-
 def prime_factor(num):
     """
         Python Program to find Prime Factors of a Number
@@ -20,6 +19,6 @@ def prime_factor(num):
 
 
 if __name__ == '__main__':
-    number = int(input("Enter number to find factor: "))
+    number = int(input("Enter number to find factor: \n"))
     prime_factor(number)
 
