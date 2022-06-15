@@ -2,7 +2,7 @@
     @Author: SADANAND PANDEY
     @Date: 2022-6-02 08:22:00
     @Last Modified by: SADANAND PANDEY
-    @Last Modified time: 2022-06-02 08:35:00
+    @Last Modified time: 2022-06-02 08:40:00
     @Title : Write a program Quadratic.java to find the roots of the equation a*x*x + b*x + c.
             Since the equation is x*x, hence there are 2 roots.
 """
