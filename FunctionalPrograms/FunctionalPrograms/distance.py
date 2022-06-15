@@ -30,4 +30,4 @@ if __name__ == '__main__':
         number2 = int(input("Enter second coordinate: "))
         calculate_distance(number1, number2)
     except ValueError as ve:
-        print("Please enter valid number")
+        print("Please enter valid number\n")
