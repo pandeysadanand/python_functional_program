@@ -2,7 +2,7 @@
     @Author: SADANAND PANDEY
     @Date: 2022-06-01 00:22:00
     @Last Modified by: SADANAND PANDEY
-    @Last Modified time: 2022-06-01 00:30:00
+    @Last Modified time: 2022-06-01 00:35:00
     @Title : Write a program wind_chill.py that takes two input from user as t
             and v and prints the wind chill
 """
