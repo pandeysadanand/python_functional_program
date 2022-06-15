@@ -2,7 +2,7 @@
     @Author: SADANAND PANDEY
     @Date: 2022-06-02  15:40:00
     @Last Modified by: SADANAND PANDEY
-    @Last Modified time: 2022-06-02 15:45:00
+    @Last Modified time: 2022-06-02 15:55:00
     @Title : Write a Stopwatch Program for measuring the time that elapses between
              the start and end clicks
 """
